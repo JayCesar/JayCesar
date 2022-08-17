@@ -24,7 +24,7 @@
 
 <br><br>
 
-<p align="left">
+<p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=salvedojuliao&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvedojuliao&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>

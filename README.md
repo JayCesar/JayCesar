@@ -30,4 +30,18 @@
 </p>
 
 
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/jc-batista" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/salvedojuliao" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.youtube.com/channel/UCU76CHIbg2Eaa4-qeP8Lf9A" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
+
 

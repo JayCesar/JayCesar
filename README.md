@@ -14,7 +14,6 @@
 
 - ⚡ Fun fact **I'm a dancing programmer 😜**
 
-- 📫 How to reach me **batistajulio215@gmail.com**
 
 <br><br>
 
@@ -24,13 +23,15 @@
 
 <br><br>
 
+<h1 align="center">⚙️ GitHub Analytics</h1>
+
 <p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=salvedojuliao&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvedojuliao&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
 
-## Contact
+<h1 align="center">📞 Contact</h1>
 
 <div align="center">
   <a href="https://github.com/salvedojuliao" target="_blank">

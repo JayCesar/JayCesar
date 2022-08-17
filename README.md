@@ -4,7 +4,7 @@
 
 - 🔥 Júnior Full Stack Developer 
 
-- 🔭 I’m currently making frontend challenges of (https://github.com/salvedojuliao/frontend-mentor-challenges)
+- 🔭 I’m currently making challenges for (https://github.com/salvedojuliao/frontend-mentor-challenges)
 
 - 🌱 I’m currently learning **Tailwind, Vue, Node, Javascript and JAVA**
 

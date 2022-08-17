@@ -14,6 +14,4 @@
 
 - ⚡ Fun fact **I'm a dancing programmer 😜**
 
-- 👨‍💻 More at [salvedojuliao](wegpage will be developed in soon!)
-
 - 📫 How to reach me **batistajulio215@gmail.com**

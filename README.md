@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Tailwind, Vue, Node, Javascript and JAVA**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Tailwind, JAVA**
+- 💬 Ask me about **JavaScript, HTML, CSS, Tailwind**
 
 - ▶️ I (not) regularly post videos on [youtube.com/blackfoox](https://www.youtube.com/channel/UCU76CHIbg2Eaa4-qeP8Lf9A)
 

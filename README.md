@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently making challenges of [Frontend Mentor](https://github.com/salvedojuliao/frontend-mentor-challenges)
 
-- 🌱 I’m currently learning **Tailwind, Vuu and Javascript**
+- 🌱 I’m currently learning **Tailwind, Vue and Javascript**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Tailwind, VUE**
 

@@ -46,7 +46,7 @@ I'm an Information Systems student at the <b>University of São Paulo - Each</b>
 
 💂 I won an international scholarship in London, where I improved my English and had unforgettable experiences;
 
-🎬 I'm in love with science fiction movies.
+🎬 I'm in love with science sci-fi movies.
 
 ## ⭐️ Languages and Tools:
 

@@ -66,10 +66,23 @@ I'm an Information Systems student at the University of São Paulo - Each and I'
 
 ***
 
+## 📌 Important considerations:
 
+📚 **Java:** I've been focusing a lot on this language, here's the repository with exercises and here with my notes in question and milestone format.
 
+📚**Spring:** I've already developed two applications with this framework - 1 and 2- and soon I grabbed it with all my claws in the Nélio Alves course. I have learned a lot from his teaching and
 
+📚 **SQL:** Soon I will divo into this technology in depth, but I already bumped into some concepts in practice. Here's a repo about it, and here's another one:
 
+***
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salvedojuliao&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula">
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvedojuliao&langs_count=9&layout=compact&hide=HASKELL,PYTHON&text_colorFFFFFF)](https://github.com/BernardoSemiOficial/github-readme-stats&theme=dracula">
+</p>
 
 
 

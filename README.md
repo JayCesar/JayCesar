@@ -38,7 +38,7 @@ I'm an Information Systems student at the <b>University of São Paulo - Each</b>
 
 🕺I love to dance and believe that life without music would not be the same;
 
-💪 I really like working out: I always feel relief after all day programming.
+💪 I really like working out: I always feel a relief after all day programming.
 
 📚 I have a strong interest in organization and I am quite into programs that have that goal;
 

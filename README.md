@@ -29,12 +29,13 @@
 
 ## ⭐️ About me
 <p>
-I'm an Information Systems student at the University of São Paulo - Each and I'm currently part of the Full-stack Junior Bootcamp by <a href="https://brazil.generation.org/"> Generation Brasil</a>.  I have been focusing more on the <b> Java language </b> and the <b>Spring framework</b> (backend) in the programming area. However, I also study and have knowledge in the front end - having already worked with <b>Vue.js/</b> and <b>Tailwind CSS.</b>  In addition, I have an affinity with design: Adobe Programs and Figma, UI/Ux concepts and I have <b>advanced English.</b> 
+I'm an Information Systems student at the <b>University of São Paulo - Each</b> and I'm currently part of the Full-stack Junior Bootcamp by <a href="https://brazil.generation.org/"> Generation Brasil</a>.  I have been focusing more on the <b> Java language </b> and the <b>Spring framework</b> (backend) in the programming area. However, I also study and have knowledge in the front end - having already worked with <b>Vue.js/</b> and <b>Tailwind CSS.</b>  In addition, I have an affinity with design: Adobe Programs and Figma, UI/Ux concepts and I have <b>advanced English.</b> 
 </p>
+
+***
 
 <img align="right" src="https://github.com/salvedojuliao/salvedojuliao/assets/44206400/844cb6d9-00ad-4682-b8f8-5c0c020af185">
 
-  
 ### Beyond programming...
 
 🕺I love to dance and believe that life without music would not be the same;
@@ -45,7 +46,7 @@ I'm an Information Systems student at the University of São Paulo - Each and I'
 
 🎥 I really enjoy editing videos and I have a channel where I upload videos from time to time;
 
-💂 I won a scholarship in London, where I improved my English and had unforgettable experiences;
+💂 I won an international scholarship in London, where I improved my English and had unforgettable experiences;
 
 🎬 I'm in love with science fiction movies.
 

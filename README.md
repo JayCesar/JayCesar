@@ -71,7 +71,7 @@ I'm an Information Systems student at the <b>University of São Paulo - Each</b>
 
 🛠️ **Spring:** I've already developed two applications with this framework - <b><a href="https://github.com/salvedojuliao/dsmeta-system/tree/main">DsMeta Sales System</a></b> e <b><a href="https://github.com/salvedojuliao/dslist-games">DsMeta Games</a></b> - and soon I will grabe it with all my claws in the <b><a href="https://github.com/devsuperior">Nélio Alves course.</a></b>
 
-🎲 **SQL:** Soon I will divo into this technology in depth, but I already bumped into some concepts in practice. 
+🎲 **SQL:** Soon I will dive into this technology in depth, but I already bumped into some concepts in practice. 
 
 ***
 

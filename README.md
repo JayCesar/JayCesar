@@ -46,7 +46,7 @@ I'm an Information Systems student at the <b>University of São Paulo | EACH</b>
 
 💂 I won an international scholarship in London, where I improved my English and had unforgettable experiences;
 
-🎬 I'm in love with science sci-fi movies.
+🎬 I'm in love with sci-fi movies.
 
 ## ⭐️ Languages and Tools:
 
@@ -67,7 +67,7 @@ I'm an Information Systems student at the <b>University of São Paulo | EACH</b>
 
 ## 📌 Important considerations:
 
-🖥️ **Java:** I've been focusing a lot on this language, <b><a href="https://github.com/salvedojuliao/java_exercises"> here's the repository </a></b>with exercises and here with my notes in question and milestone format.
+🖥️ **Java:** I've been focusing a lot on this language, <b><a href="https://github.com/salvedojuliao/java_exercises"> here's the repository </a></b>with exercises and with my notes in 'issues' and 'milestone' format.
 
 🛠️ **Spring:** I've already developed two applications with this framework - <b><a href="https://github.com/salvedojuliao/dsmeta-system/tree/main">DsMeta Sales System</a></b> e <b><a href="https://github.com/salvedojuliao/dslist-games">DsMeta Games</a></b> - and soon I will grabe it with all my claws in the <b><a href="https://github.com/devsuperior">Nélio Alves course.</a></b>
 

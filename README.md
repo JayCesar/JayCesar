@@ -79,11 +79,11 @@ I'm an Information Systems student at the <b>University of São Paulo | EACH</b>
 ***
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salvedojuliao&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayCesar&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula">
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvedojuliao&langs_count=9&layout=compact&hide=HASKELL,PYTHON&text_colorFFFFFF)](https://github.com/BernardoSemiOficial/github-readme-stats&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayCesar&langs_count=9&layout=compact&hide=HASKELL,PYTHON&text_colorFFFFFF)](https://github.com/BernardoSemiOficial/github-readme-stats&theme=dracula">
 </p>
 
 

@@ -42,7 +42,7 @@ I'm an Information Systems student at the <b>University of São Paulo | EACH</b>
 
 📚 I have a strong interest in organization and I am quite into programs that have that goal;
 
-🎥 I really enjoy editing videos and I have a channel where I upload videos from time to time;
+🎥 I really enjoy editing videos, I have already worked with it and sometimes I upload videos on my channel;
 
 💂 I won an international scholarship in London, where I improved my English and had unforgettable experiences;
 

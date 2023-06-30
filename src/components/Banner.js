@@ -27,6 +27,8 @@ const Banner = () => {
               2000,
               'Design lover',
               2000,
+              'English Teacher',
+              2000,
             ]}
             speed={50}
             className='text-accent'
@@ -35,24 +37,24 @@ const Banner = () => {
             />
           </div>
           <p className="mb-8 mx-auto lg:max-0">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry.      
-            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+          Sou estudante de <b>Sistemas de Informação na Universidade de São Paulo</b> e tenho experiência com <b>Java, Spring e SQL no backend e Vue.js e um pouco de React.js no frontend</b>. 
+          Sou capaz de <b>aprender rapidamente novas tecnologias</b> e tenho conhecimento em <b>orientação a objetos</b>, mas já atuei com projetos relacionados a <b>UX/UI</b>.
           </p>
           <div className="flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0">
-            <button className="btn btn-lg">Contact me</button>
+            <button className="btn btn-lg">Entre em contato</button>
             <a href="#" className="text-gradient btn-link"> 
             Meu Portfolio 
             </a>
           </div>
           {/*  sociais */}
           <div className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0">
-            <a href="#">
+            <a href="https://www.youtube.com/@blackfoox6286">
               <FaYoutube />
             </a>
-            <a href="#">
+            <a href="https://github.com/JayCesar">
               <FaGithub />
             </a>
-            <a href="#">
+            <a href="https://twitter.com/JayC3sar">
               <FaTwitter />
             </a>
           </div>

@@ -11,7 +11,7 @@ const Header = () => {
           <img src={Logo} aly='JayCesar_Logo' />
         </a>
         {/* button */}
-        <button className='btn btn-sm'> Work with me</button>
+        <button className='btn btn-sm'> Trabalhe comigo </button>
       </div>
     </div>
   </header>;

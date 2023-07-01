@@ -2,7 +2,7 @@ import React from 'react';
 // Images
 import Image from '../assets/avatar.svg';
 // Icons
-import {FaGithub, FaYoutube, FaDribbble, FaTwitter} from 'react-icons/fa';
+import {FaGithub, FaYoutube, FaDribbble, FaTwitter, FaLinkedin} from 'react-icons/fa';
 // type animation
 import {TypeAnimation} from 'react-type-animation'
 // motion
@@ -73,6 +73,9 @@ const Banner = () => {
             whileInView={'show'} 
             viewport={{once: false, amout: 0.7}} 
             className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0">
+            <a href="https://www.linkedin.com/in/jc-batista/">
+              <FaLinkedin />
+            </a>
             <a href="https://www.youtube.com/@blackfoox6286">
               <FaYoutube />
             </a>

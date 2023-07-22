@@ -9,28 +9,34 @@ import {fadeIn} from '../variants'
 // services data
 const services = [
   {
-    name: 'UXI/UX design',
+    name: 'Instagram e Linkedin',
     description: 
-    'Mussum Ipsum, cacilds vidis litro abertis. Não sou faixa preta cumpadi,',
-    link: 'Leran More',
+    'Tenho o costume de divulgar meus projetos e exercícios principalmente nessas redes sociais.',
+    link: 'Confira',
   },
   {
-    name: 'Digital Marketing',
+    name: 'Projetos em Java',
     description: 
-    'Mussum Ipsum, cacilds vidis litro abertis. Não sou faixa preta cumpadi,',
-    link: 'Leran More',
+    'No meu Github tem diferentes projetos e exercícios em Java, mas os principais estão no Replit',
+    link: 'Confira',
   },
   {
-    name: 'Product Branding',
+    name: 'Projetos Frontend',
     description: 
-    'Mussum Ipsum, cacilds vidis litro abertis. Não sou faixa preta cumpadi,',
-    link: 'Leran More',
+    'Embora meu foco seja Java, sei também fazer aplicações frontend e sempre realizo algum desafio do Frontendmentor',
+    link: 'Confira',
+  },
+  {
+    name: 'Inglês',
+    description: 
+    'Ganhei uma bolsa de estudos 100% para estudar em Londres e tive uma experiência incrível',
+    link: 'Confira',
   },
 ]
 
 const Services = () => {
   return (
-    <section className='section' id='services'>
+    <section className='section mt-[30rem] lg:mt-[10rem]' id='services'>
       <div className="container mx-auto">
         <div className='flex flex-col lg:flex-row'>
           {/*text & image*/}
@@ -39,10 +45,10 @@ const Services = () => {
            initial='hidden'
            whileInView={'show'}
            viewport={{ once: false, amount: 0.3 }}
-          className="flex-1 lg:bg-services lg:bg-bottom bg-no-repeat mix-blend-lighten mb-16 lg:mb-0">
-            <h2 className='h2 text-accent mb-6'> What I do </h2>
-            <h3 className="h3 max-w-[455px] mb-16">I am a Freelance Front-end Developer with over 5 year of experience</h3> 
-            <button className='btn btn-sm'>See my work</button>
+          className="flex-1 lg:bg-services lg:bg-bottom bg-no-repeat mix-blend-lighten mb-16 lg:mb-0" id='imgJulio'>
+            <h2 className='h2 text-accent mb-6'> O que eu faço</h2>
+            <h3 className="h3 max-w-[455px] mb-16">Gosto de desenvolver em Java e utilizar o SpringBoot e algumas tecnologias de frontend.</h3> 
+            <button className='btn btn-sm'>Veja meus trabalhos</button>
           </motion.div>
           {/*services*/}
           <motion.div 

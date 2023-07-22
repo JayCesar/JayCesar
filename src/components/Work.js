@@ -22,8 +22,8 @@ const Work = () => {
             {/*text*/}
             <div>
               <h2 className="h2 leading-tigh text-accent">
-                My Latest <br />
-                Work.
+                Meus princiais <br />
+                Projetos.
               </h2>
               <p className='max-w-sm mb-16'>
                 Lorem ipsum dolor sit amet consctetur adipisicing elit.

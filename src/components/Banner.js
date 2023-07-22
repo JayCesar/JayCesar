@@ -23,7 +23,7 @@ const Banner = () => {
             whileInView={'show'} 
             viewport={{once: false, amout: 0.7}} 
             className="text-[55px] font-bold leading-[0.8] lg:text-[110px]">
-            Jay <span> CESAR</span>
+            Júlio <span> CÉSAR</span>
           </motion.h1>
           <motion.div 
             variants={fadeIn('up', 0.3)} 
@@ -31,13 +31,13 @@ const Banner = () => {
             whileInView={'show'} 
             viewport={{once: false, amout: 0.7}} 
             className='mb-6 text-[36px] lg:text-[60px] font-secondary font-semibold uppercase leading-[1]'>
-            <span className='text-white mr-4'>I am a</span>
+            <span className='text-white mr-4'>Sou um</span>
             <TypeAnimation sequence={[
-              'Developer',
+              'Desenvolvedor',
               2000,
-              'Design lover',
+              'Estudante',
               2000,
-              'Tech Student',
+              'Fã do Miranha',
               2000,
             ]}
             speed={50}
@@ -52,7 +52,7 @@ const Banner = () => {
           whileInView={'show'} 
           viewport={{once: false, amout: 0.7}} 
           className="mb-8 mx-auto lg:max-0">
-          Sou estudante de <b>Sistemas de Informação na Universidade de São Paulo</b> e tenho experiência com <b>Java, Spring e SQL no backend e Vue.js e React.js no frontend</b>. 
+          Faço <b>Sistemas de Informação na Universidade de São Paulo</b> e tenho experiência com <b>Java, Spring e SQL no backend e Vue.js e React.js no frontend</b>. 
           {/* Sou capaz de <b>aprender rapidamente novas tecnologias</b> e tenho conhecimento em <b>orientação a objetos</b>, mas já atuei com projetos relacionados a <b>UX/UI</b>. */}
           </motion.p>
           <motion.div 

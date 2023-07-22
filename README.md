@@ -17,7 +17,7 @@
    <a href="https://twitter.com/JayC3sar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.youtube.com/channel/UCU76CHIbg2Eaa4-qeP8Lf9A" target="_blank">
+  <a href="https://www.youtube.com/@jaycesaar" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
 </div><br>

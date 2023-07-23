@@ -47,7 +47,7 @@ const Services = () => {
            viewport={{ once: false, amount: 0.3 }}
           className="flex-1 lg:bg-services lg:bg-bottom bg-no-repeat mix-blend-lighten mb-16 lg:mb-0" id='imgJulio'>
             <h2 className='h2 text-accent mb-6'> O que eu faço</h2>
-            <h3 className="h3 max-w-[455px] mb-16">Gosto de desenvolver em Java e utilizar o SpringBoot e algumas tecnologias de frontend.</h3> 
+            <h3 className="h3 max-w-[455px] mb-16">Gosto de desenvolver em Java + SpringBoot e algumas tecnologias de frontend.</h3> 
             <button className='btn btn-sm'>Veja meus trabalhos</button>
           </motion.div>
           {/*services*/}

@@ -41,15 +41,15 @@
 
 @media screen and (min-width: 320px) and (max-width: 460px) {
   #services{
-    margin-top: 400px;
+    margin-top: 500px;
   }
 }
 
-/* @media screen and (min-width: 461px) and (max-width: 460px) {
+@media screen and (min-width: 461px) and (max-width: 600px) {
   #services{
-    margin-top: 400px;
+    margin-top: 600px;
   }
-} */
+}
 
 @media screen and (min-width: 600px) and (max-width: 959px) {
   #services{
@@ -92,4 +92,10 @@
   .section {
     @apply py-8 lg:py-24 lg:h-screen flex items-center;
   }
+}
+
+
+/* 960 a 1200*/
+@media screen and (min-width: 960px) and (max-width: 1200px){
+  
 }

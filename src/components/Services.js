@@ -72,8 +72,8 @@ const Services = () => {
                           {description}
                         </p>
                       </div>
-                      <div className='flex flex-col flex-1 items-center'>
-                        <a href="#" className='btn w-9 h-9 mb-[6px] flex justify-center items-center'>
+                      <div className='flex flex-col flex-1 items-center md:items-end lg:items-center'>
+                        <a href="#" className='btn w-9 h-9 mb-[6px] flex justify-center items-center md:mr-2 lg:mr-0'>
                           <BsArrowUpRight />
                         </a>
                         <a href="#" className='text-gradient text-sm'>

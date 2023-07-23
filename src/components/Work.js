@@ -25,7 +25,7 @@ const Work = () => {
                 Meus principais <br />
                 Projetos.
               </h2>
-              <p className='max-w-sm mb-16'>
+              <p className='max-w-sm mb-16 lg:mb-10 xl:mb-16'>
                 Já desenvolvi sistemas frontend (com Vue e React) e backend (utilizando o SprigBoot). Selecionei os três principais
                 para essa página.
               </p>
@@ -37,16 +37,16 @@ const Work = () => {
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 
               transation-all duration-300'></div>
               {/*img*/}
-              <img className='group-hover:scale-125 transaction-all duration-500' src={Img1} alt='' />
+              <img className='group-hover:scale-125 transaction-all duration-500' src={Img1} alt='Imagem de um site sobre mitologia africana' />
               {/* pretittle */}
               <div className="absolute -bottom-full left-12 
               group-hover:bottom-24 transation-all duration-500 z-50">
-                <span className='text-gradient'>UI/UX Design</span>  
+                <span className='text-gradient'>Meu TCC da Etec (2018)</span>  
               </div>
               {/* tittle */}
               <div className="absolute -bottom-full left-12 
               group-hover:bottom-14 transation-all duration-700 z-50">
-                <span className='text-3xl text-white'>Project Title</span>
+                <span className='text-3xl text-white'>MitoAfro</span>
               </div>
             </div>
           </motion.div>
@@ -57,21 +57,21 @@ const Work = () => {
            viewport={{ once: false, amount: 0.3 }}
            className="flex-1 flex flex-col gap-y-6">
             {/*image*/}
-            <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
+            <div className="mb-4 lg:mb-[42px] xl:mb-0 group relative overflow-hidden border-2 border-white/50 rounded-xl">
               {/*overlay*/}
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 
               transation-all duration-300'></div>
               {/*img*/}
-              <img className='group-hover:scale-125 transaction-all duration-500' src={Img1} alt='' />
+              <img className='group-hover:scale-125 transaction-all duration-500' src={Img2} alt='' />
               {/* pretittle */}
               <div className="absolute -bottom-full left-12 
               group-hover:bottom-24 transation-all duration-500 z-50">
-                <span className='text-gradient'>UI/UX Design</span>  
+                <span className='text-gradient'>Projeto Final (Em desenvolvimento)</span>  
               </div>
               {/* tittle */}
               <div className="absolute -bottom-full left-12 
               group-hover:bottom-14 transation-all duration-700 z-50">
-                <span className='text-3xl text-white'>Project Title</span>
+                <span className='text-3xl text-white'>NutriVidas</span>
               </div>
             </div>
             {/*image*/}
@@ -80,16 +80,16 @@ const Work = () => {
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 
               transation-all duration-300'></div>
               {/*img*/}
-              <img className='group-hover:scale-125 transaction-all duration-500' src={Img1} alt='' />
+              <img className='group-hover:scale-125 transaction-all duration-500' src={Img3} alt='' />
               {/* pretittle */}
               <div className="absolute -bottom-full left-12 
               group-hover:bottom-24 transation-all duration-500 z-50">
-                <span className='text-gradient'>UI/UX Design</span>  
+                <span className='text-gradient'>Lading Page feito com Vue e Tailwind</span>  
               </div>
               {/* tittle */}
               <div className="absolute -bottom-full left-12 
               group-hover:bottom-14 transation-all duration-700 z-50">
-                <span className='text-3xl text-white'>Project Title</span>
+                <span className='text-3xl text-white'>Shortener API</span>
               </div>
             </div>
           </motion.div>

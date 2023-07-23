@@ -11,7 +11,7 @@ const services = [
   {
     name: 'Redes sociais',
     description: 
-    'Tenho o costume de divulgar meus projetos e exercícios em diferentes social.',
+    'Tenho o costume de divulgar meus projetos e exercícios em diferentes social midias.',
     link: 'Confira',
   },
   {

@@ -7,6 +7,7 @@ import { fadeIn } from "../variants";
 import Img1 from "../assets/portfolio-img1.png";
 import Img2 from "../assets/portfolio-img2.png";
 import Img3 from "../assets/portfolio-img3.png";
+import Img4 from "../assets/portfolio-img4.png";
 
 const Work = () => {
   return (
@@ -49,7 +50,10 @@ const Work = () => {
                 <span className='text-3xl text-white'>MitoAfro</span>
               </div>
             </div>
+          
           </motion.div>
+       
+          
           <motion.div 
            variants={fadeIn('left', 0.2)}
            initial='hidden'
@@ -92,6 +96,8 @@ const Work = () => {
                 <span className='text-3xl text-white'>Shortener API</span>
               </div>
             </div>
+           
+            
           </motion.div>
         </div>
       </div>

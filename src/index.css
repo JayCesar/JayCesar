@@ -39,11 +39,17 @@
   border-radius: 100%;
 }
 
-@media screen and (min-width: 320px) and (max-width: 599px) {
+@media screen and (min-width: 320px) and (max-width: 460px) {
   #services{
     margin-top: 400px;
   }
 }
+
+/* @media screen and (min-width: 461px) and (max-width: 460px) {
+  #services{
+    margin-top: 400px;
+  }
+} */
 
 @media screen and (min-width: 600px) and (max-width: 959px) {
   #services{
@@ -54,7 +60,7 @@
 
 @media screen and (min-width: 960px){
   #imgJulio{
-      margin-bottom: -80px;
+      margin-bottom: -20px;
   }
 }
 

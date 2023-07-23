@@ -9,27 +9,27 @@ import {fadeIn} from '../variants'
 // services data
 const services = [
   {
-    name: 'Instagram e Linkedin',
+    name: 'Redes sociais',
     description: 
-    'Tenho o costume de divulgar meus projetos e exercícios principalmente nessas redes sociais.',
+    'Tenho o costume de divulgar meus projetos e exercícios em diferentes social.',
     link: 'Confira',
   },
   {
     name: 'Projetos em Java',
     description: 
-    'No meu Github tem diferentes projetos e exercícios em Java, mas os principais estão no Replit',
+    'No meu Github tem diferentes projetos e exercícios em Java, mas os principais estão no Replit.',
     link: 'Confira',
   },
   {
     name: 'Projetos Frontend',
     description: 
-    'Embora meu foco seja Java, sei também fazer aplicações frontend e sempre realizo algum desafio do Frontendmentor',
+    'Embora meu foco seja Java, sei também fazer aplicações frontend e sempre realizo algum desafio do Frontendmentor.',
     link: 'Confira',
   },
   {
     name: 'Inglês',
     description: 
-    'Ganhei uma bolsa de estudos 100% para estudar em Londres e tive uma experiência incrível',
+    'Ganhei uma bolsa de estudos 100% para estudar em Londres e tive uma experiência incrível.',
     link: 'Confira',
   },
 ]
@@ -72,8 +72,8 @@ const Services = () => {
                           {description}
                         </p>
                       </div>
-                      <div className='flex flex-col flex-1'>
-                        <a href="#" className='btn w-9 h-9 mb-[42px] flex justify-center items-center'>
+                      <div className='flex flex-col flex-1 items-center'>
+                        <a href="#" className='btn w-9 h-9 mb-[6px] flex justify-center items-center'>
                           <BsArrowUpRight />
                         </a>
                         <a href="#" className='text-gradient text-sm'>

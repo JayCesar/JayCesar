@@ -10,7 +10,7 @@ import Img3 from "../assets/portfolio-img3.png";
 
 const Work = () => {
   return (
-    <section className="section" id="work">
+    <section className="section lg:mt-[200px]" id="work">
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row gap-x-10">
           <motion.div 
@@ -22,14 +22,14 @@ const Work = () => {
             {/*text*/}
             <div>
               <h2 className="h2 leading-tigh text-accent">
-                Meus princiais <br />
+                Meus principais <br />
                 Projetos.
               </h2>
               <p className='max-w-sm mb-16'>
-                Lorem ipsum dolor sit amet consctetur adipisicing elit.
-                Repellat, hic! Harum quis, aaasdqwdqw velit neqqqwue esse eos molestias
+                Já desenvolvi sistemas frontend (com Vue e React) e backend (utilizando o SprigBoot). Selecionei os três principais
+                para essa página.
               </p>
-              <button className='btn btn-sm'>View all projects</button>
+              <a href="#"><button className='btn btn-sm'>Ver todos os projetos</button></a>
             </div>
             {/*image*/}
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">

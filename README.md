@@ -39,7 +39,7 @@ I'm an Information Systems student at the <b>University of São Paulo | EACH</b>
 
 ### Beyond programming...
 
-🕺I love to dance and believe that life without music would not be the same;
+🕺 I love to dance and believe that life without music would not be the same;
 
 💪 I really like working out: I always feel a relief after all day programming.
 
@@ -73,8 +73,6 @@ I'm an Information Systems student at the <b>University of São Paulo | EACH</b>
 🖥️ **Java:** I've been focusing a lot on this language, <b><a href="https://github.com/salvedojuliao/java_exercises"> here's the repository </a></b>with exercises and with my notes in 'issues' and 'milestone' format.
 
 🛠️ **Spring:** I've already developed two applications with this framework - <b><a href="https://github.com/salvedojuliao/dsmeta-system/tree/main">DsMeta Sales System</a></b> e <b><a href="https://github.com/salvedojuliao/dslist-games">DsMeta Games</a></b> - and soon I will grabe it with all my claws in the <b><a href="https://github.com/devsuperior">Nélio Alves course.</a></b>
-
-🎲 **SQL:** I started to study it at Generation Bootcamp!
 
 ***
 
